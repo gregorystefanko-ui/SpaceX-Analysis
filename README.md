@@ -3,7 +3,7 @@
 Analyzed 165+ missions using the SpaceX API and Power BI to track pad-specific turnaround trends.
 
 ### Key Insight
-* **Average Turnaround per Pad:** 6.27 Days
+* **Total Average Turnaround:** 6.27 Days (Filterable by Launchpad)
 
 ### Project Files
 * **Dashboard Report:** [Falcon 9 Turnaround Time.pdf](./Falcon%209%20Turnaround%20Time.pdf)
